@@ -1,0 +1,1 @@
+source ~/.environments/deep/bin/activate
